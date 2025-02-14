@@ -5,7 +5,7 @@
 
 - 🔭 I'm an **undergraduate at SLIIT**
 
-- 🌱 I’m currently learning **JAVA, Kotlin**
+- 🌱 I’m currently learning **R, Machine learning**
 
 - 📫 How to reach me **ojanijayasinghe123@gmail.com**
 
