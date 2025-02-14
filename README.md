@@ -5,6 +5,8 @@
 
 - 🔭 I'm an **undergraduate at SLIIT**
 
+- 🔭 I'm following the Bsc.(Hons) in Information Technology **Specializing in Data Science**
+
 - 🌱 I’m currently learning **R, Machine learning**
 
 - 📫 How to reach me **ojanijayasinghe123@gmail.com**
